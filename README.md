@@ -1,2 +1,2 @@
 # Concreta
-Inteligência artificial de concreto
+Inteligência artificial para previsão da resistência do concreto.
