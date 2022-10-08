@@ -45,8 +45,6 @@ Para você me utilizar em sua pesquisa ou no seu canteiro de obras basta fazer o
 De posse dos arquivos com extensão <code>.sav</code> e do modelo em Excel preenchido, abra o <b>notebook jupyter exemplo</b> em seu Google Drive (Utilizar com a extensão <b>Google Colaboratory</b>) e então utilize a guia de índice (☰) do Colaboratory, que fica do lado esquerdo, para inserir os arquivos no ambiente (<code>.sav</code> e <code>.xlsx</code>).
 </p>
 
-<p align = "center"><img src="_data/fig01.svg" width="100%" alt="Fluxograma"></p>
-
 <p align = "justify">Após fazer o <i>upload</i> dos arquivos basta clicar em <code><b>Ambiente de execução</b></code> e depois solicitar a opção<code><b>Executar tudo</b></code>. Ao fim do processo seu banco de dados estará completamente processado.</p>
 
 <h2><i>Disclaimer</i></h2>   
