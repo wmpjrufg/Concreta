@@ -47,7 +47,7 @@ De posse dos arquivos com extensão <code>.sav</code> e do modelo em Excel preen
 
 <p align = "center"><img src="_data/fig01.svg" width="100%" alt="Fluxograma"></p>
 
-<p align = "justify">Após fazer o <i>upload</i> dos arquivos basta clicar em <code><b>Ambiente de execução</b></code> e depois solicitar a opção<code><b>Executar tudo</b></code>. Ao fim do processo seu banco de dados será processado.</p>
+<p align = "justify">Após fazer o <i>upload</i> dos arquivos basta clicar em <code><b>Ambiente de execução</b></code> e depois solicitar a opção<code><b>Executar tudo</b></code>. Ao fim do processo seu banco de dados estará completamente processado.</p>
 
 <h2><i>Disclaimer</i></h2>   
 <p align="justify">
