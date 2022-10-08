@@ -1,7 +1,7 @@
 <h1>Seja bem vindo a Concreta</h1>
 
 <p align="justify">
-Olá eu sou a concreta a primeira IA brasileira para construída para determinar a resistência do concreto a partir de dados da dosagem do material. Venha conhecer um pouco da minha história. Eu sou uma das criações do GPEE (Grupo de Pesquisa e Estudos em Engenharia Civil) da UFCAT e estou aqui para ajudar você Engenheiro Civil e estudante de engenharia que deseja determinar propriedades do concreto armado.
+Olá eu sou a concreta a primeira IA brasileira para construída para determinar a resistência do concreto a partir de dados da dosagem. Venha conhecer um pouco da minha história. Eu sou uma das criações do GPEE (Grupo de Pesquisa e Estudos em Engenharia Civil) da UFCAT e estou aqui para ajudar você Engenheiro Civil e estudante de engenharia que deseja determinar propriedades do concreto.
 </p>
 <br>
 
@@ -32,7 +32,7 @@ Para você me utilizar em sua pesquisa ou no seu canteiro de obras basta fazer o
       </a>
     </li>
     <li>
-      <a href="https://mega.nz/folder/fk0UCYoC#qPUlF5Tg4UJAA9XOBE4vlw" target="_blank">IA Concreta
+      <a href="https://drive.google.com/drive/folders/1a-LD5YdRyOkVfchbnFniSQFCXoMkv1Kr?usp=sharing" target="_blank">IA Concreta
       </a>
     </li>
     <li>
@@ -42,12 +42,12 @@ Para você me utilizar em sua pesquisa ou no seu canteiro de obras basta fazer o
   </ol>
 </blockquote>
 
-De posse do arquivo extensão <code>.sav</code> e do modelo em Excel preenchido, abra o <b>notebook jupyter exemplo</b> em seu Google Drive (Utilizar com a extensão <b>Google Colaboratory</b>) e então utilize a guia de índice (☰) do Colaboratory, que fica do lado esquerdo, para inserir os arquivos no ambiente (<code>.sav</code> e <code>.xlsx</code>).
+De posse dos arquivos com extensão <code>.sav</code> e do modelo em Excel preenchido, abra o <b>notebook jupyter exemplo</b> em seu Google Drive (Utilizar com a extensão <b>Google Colaboratory</b>) e então utilize a guia de índice (☰) do Colaboratory, que fica do lado esquerdo, para inserir os arquivos no ambiente (<code>.sav</code> e <code>.xlsx</code>).
 </p>
 
 <p align = "center"><img src="_data/fig01.svg" width="100%" alt="Fluxograma"></p>
 
-<p align = "justify">Após fazer o upload dos arquivos basta clicar em <code><b>Ambiente de execução</b></code> e depois solicitar a opção<code><b>Executar tudo</b></code>. Ao fim do processo seu banco de dados será apresnetado na tela do prórpio <b>notebook Jupyter</b>.</p>
+<p align = "justify">Após fazer o <i>upload</i> dos arquivos basta clicar em <code><b>Ambiente de execução</b></code> e depois solicitar a opção<code><b>Executar tudo</b></code>. Ao fim do processo seu banco de dados será processado.</p>
 
 <h2><i>Disclaimer</i></h2>   
 <p align="justify">
