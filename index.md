@@ -28,7 +28,7 @@ Para você me utilizar em sua pesquisa ou no seu canteiro de obras basta fazer o
 <blockquote>
   <ol>
     <li>
-      <a href="https://mega.nz/folder/z9cSQCZR#SWxN82BTINkFsgpjuYMDfg" target="_blank">Modelo notebook Jupyter
+      <a href="https://drive.google.com/file/d/1j-KGORxuHZGsQIxXjhMKCOSd4fl1d4HD/view?usp=sharing" target="_blank">Modelo notebook Jupyter
       </a>
     </li>
     <li>
@@ -36,7 +36,7 @@ Para você me utilizar em sua pesquisa ou no seu canteiro de obras basta fazer o
       </a>
     </li>
     <li>
-      <a href="https://mega.nz/folder/Dl8hEbpT#NMu3OOt-iuR-mjY-2zEKpg" target="_blank">Modelo planilha Excel
+      <a href="https://docs.google.com/spreadsheets/d/1e7FJUoE8PwMzve7I5lBYUWAJP4OPZbvc/edit?usp=sharing&ouid=111460075262236273387&rtpof=true&sd=true" target="_blank">Modelo planilha Excel
       </a>
     </li>
   </ol>
