@@ -4,7 +4,7 @@
 Hello, I'm Concrete, the first Brazilian AI to be built to determine the concrete strength (fck) based on dosage data. Come and learn a little about my story. I am one of the creations of the GPEE (Research and Studies Group in Civil Engineering) of UFCAT and I am here to help you Civil Engineer and engineering student who wants to determine properties of concrete.
 </p>
 
-<h2>Participantes do projeto</h2>
+<h2>Research team</h2>
 
 <ul>
   <li><a href="" target="_blank"></a>Comp. Lucas Elias de Andrade Cruvinel</li>
