@@ -36,6 +36,16 @@ To use me in your job, just follow these steps:<br>
   <li>The results are to printed in window.</li>
 </ol>
 
+<h4>Help to upload in Google Colab</h4>
+
+<ol>
+  <li><p align="justify">On the left-hand side of the user interface, access the file directories (last icon);
+</p></li>
+  <li>Click on upload;</li>
+  <li><p align="justify">Choose the file you want to upload <code>–></code> click Ok <code>–></code> then click OK when the warning that says “refresh will remove uploaded things”!!! Now your file is on google colab;</p></li>
+</ol>
+
+
 <h2><i>Disclaimer</i></h2>   
 <p align="justify">
 <b>Concreta's</b> prediction information does not constitute a recommendation for the removal of specimens laboratory investigation or concrete dosage. However, AI helps technicians in the area to obtain real-time responses on the mechanical strength of the material.
