@@ -27,35 +27,13 @@ To use me in your job, just follow these steps:<br>
 
 <ol>
   <li>Download pre-trained <a href="https://github.com/wmpjrufg/Concreta/tree/gh-pages/_data/model" target="_blank">model</a>;</li>
-  <li>Open a new <a href="https://colab.research.google.com" target="_blank">Google Colab project</a>;</li>
-  <li>Fill in the worksheet with your dosage data</li>
-  <li><a href="http://lattes.cnpq.br/8968151880884493" target="_blank">Prof. Rogério Pinto Espíndola</a></li>
-  <li><a href="http://lattes.cnpq.br/8801080897723883" target="_blank">Prof. Daniel de Lima Araújo</a></li>
-  <li><a href="http://lattes.cnpq.br/1543798708473666" target="_blank">Prof. Gustavo de Assis Costa</a></li>
-  <li><a href="http://lattes.cnpq.br/0348866215558920" target="_blank">Eng. Ma. Amanda Isabela de Campos</a></li>
+  <li>Open a new <a href="https://colab.research.google.com" target="_blank">Google Colab project</a> and upload <a href="https://github.com/wmpjrufg/Concreta/blob/gh-pages/_data/notebook/Example.ipynb" target="_blank">example</a> notebook;</li>
+  <li>Fill in the <a href="https://github.com/wmpjrufg/Concreta/tree/gh-pages/_data/input%20data" target="_blank"> worksheet</a> with your dosage data;</li>
+  <li>Upload input data in notebook jupyter;</li>
+  <li>Upload pre-trained (<code>.sav</code> files) in notebook jupyter;</li>
+  <li>Execute notebook jupyter and wait;</li>
+  <li>The results are to printed in window.</li>
 </ol>
-
-<blockquote>
-  <ol>
-    <li>
-      <a href="https://drive.google.com/file/d/1j-KGORxuHZGsQIxXjhMKCOSd4fl1d4HD/view?usp=sharing" target="_blank">Modelo notebook Jupyter
-      </a>
-    </li>
-    <li>
-      <a href="https://drive.google.com/drive/folders/1a-LD5YdRyOkVfchbnFniSQFCXoMkv1Kr?usp=sharing" target="_blank">Download <code>.sav</code> extension;
-      </a>
-    </li>
-    <li>
-      <a href="https://docs.google.com/spreadsheets/d/1e7FJUoE8PwMzve7I5lBYUWAJP4OPZbvc/edit?usp=sharing&ouid=111460075262236273387&rtpof=true&sd=true" target="_blank">Modelo planilha Excel
-      </a>
-    </li>
-  </ol>
-</blockquote>
-
-De posse dos arquivos com extensão <code>.sav</code>, <code>.py</code> e do modelo em Excel preenchido, abra o <b>notebook jupyter exemplo</b> em seu Google Drive (Utilizar com a extensão <b>Google Colaboratory</b>) e então utilize a guia de índice (☰) do Colaboratory, que fica do lado esquerdo, para inserir os arquivos no ambiente (<code>.sav</code>, <code>.py</code> e <code>.xlsx</code>).
-</p>
-
-<p align = "justify">Após fazer o <i>upload</i> dos arquivos basta clicar em <code><b>Ambiente de execução</b></code> e depois solicitar a opção<code><b>Executar Tudo</b></code>. Ao fim do processo seu banco de dados estará completamente processado.</p>
 
 <h2><i>Disclaimer</i></h2>   
 <p align="justify">
