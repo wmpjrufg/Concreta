@@ -27,11 +27,11 @@ To use me in your job, just follow these steps:<br>
 
 <ol>
   <li>Download pre-trained <a href="https://github.com/wmpjrufg/Concreta/tree/gh-pages/_data/model" target="_blank">model</a>;</li>
-  <li>Open a new <a href="https://colab.research.google.com" target="_blank">Google Colab project</a> and upload <a href="https://github.com/wmpjrufg/Concreta/blob/gh-pages/_data/notebook/Example.ipynb" target="_blank">example</a> notebook;</li>
+  <li>Open a new <a href="https://colab.research.google.com" target="_blank">Google Colab project</a> and upload <a href="https://drive.google.com/drive/folders/1reR2inVWJoU_cZ5VZvz3-A_q7wHMizJD?usp=sharing" target="_blank">example</a> notebook;</li>
   <li>Fill in the <a href="https://github.com/wmpjrufg/Concreta/tree/gh-pages/_data/input%20data" target="_blank"> worksheet</a> with your dosage data;</li>
   <li>Upload input data in notebook jupyter;</li>
   <li>Upload pre-trained (<code>.sav</code> files) in notebook jupyter;</li>
-  <li>Upload <a href="https://github.com/wmpjrufg/Concreta/blob/gh-pages/_data/notebook/CONCRETA.py" target="_blank">CONCRETA</a> engine in notebook jupyter;</li>
+  <li>Upload <a href="https://drive.google.com/drive/folders/1reR2inVWJoU_cZ5VZvz3-A_q7wHMizJD?usp=sharing" target="_blank">CONCRETA</a> engine in notebook jupyter;</li>
   <li>Execute notebook jupyter and wait;</li>
   <li>The results are to printed in window.</li>
 </ol>
