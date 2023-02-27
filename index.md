@@ -26,7 +26,7 @@ I was built using the machine learning tools of the Python language. For you to 
 To use me in your job, just follow these steps:<br> 
 
 <ol>
-  <li>Download pre-trained <a href="https://github.com/wmpjrufg/Concreta/tree/gh-pages/_data/model" target="_blank">model (<code>model.sav</code> and <code>scale.sav</code> files)</a>;</li>
+  <li>Download pre-trained <a href="https://github.com/wmpjrufg/Concreta/tree/gh-pages/_data/model" target="_blank">model</a> (<code>model.sav</code> and <code>scale.sav</code> files);</li>
   <li>Open a new <a href="https://colab.research.google.com" target="_blank">Google Colab project</a> and upload <a href="https://drive.google.com/drive/folders/1reR2inVWJoU_cZ5VZvz3-A_q7wHMizJD?usp=sharing" target="_blank">example</a> notebook;</li>
   <li>Fill in the <a href="https://github.com/wmpjrufg/Concreta/tree/gh-pages/_data/input%20data" target="_blank"> worksheet</a> with your dosage data;</li>
   <li>Upload input data in notebook jupyter;</li>
