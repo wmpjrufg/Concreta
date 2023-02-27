@@ -1,29 +1,39 @@
-<h1>Seja bem vindo a Concreta</h1>
+<h1>Welcome to Concreta</h1>
 
 <p align="justify">
-Olá eu sou a concreta a primeira IA brasileira para construída para determinar a resistência do concreto a partir de dados da dosagem. Venha conhecer um pouco da minha história. Eu sou uma das criações do GPEE (Grupo de Pesquisa e Estudos em Engenharia Civil) da UFCAT e estou aqui para ajudar você Engenheiro Civil e estudante de engenharia que deseja determinar propriedades do concreto.
+Hello, I'm Concrete, the first Brazilian AI to be built to determine the concrete strength (fck) based on dosage data. Come and learn a little about my story. I am one of the creations of the GPEE (Research and Studies Group in Civil Engineering) of UFCAT and I am here to help you Civil Engineer and engineering student who wants to determine properties of concrete.
 </p>
-<br>
 
 <h2>Participantes do projeto</h2>
 
 <ul>
+  <li><a href="" target="_blank"></a>Comp. Lucas Elias de Andrade Cruvinel</li>
   <li><a href="http://lattes.cnpq.br/2268506213083114" target="_blank">Prof. Wanderlei Malaquias Pereira Junior</a></li>
   <li><a href="http://lattes.cnpq.br/4025685702530313" target="_blank">Prof. Antover Panazzolo Sarmento</a></li>
   <li><a href="http://lattes.cnpq.br/8968151880884493" target="_blank">Prof. Rogério Pinto Espíndola</a></li>
   <li><a href="http://lattes.cnpq.br/8801080897723883" target="_blank">Prof. Daniel de Lima Araújo</a></li>
   <li><a href="http://lattes.cnpq.br/1543798708473666" target="_blank">Prof. Gustavo de Assis Costa</a></li>
   <li><a href="http://lattes.cnpq.br/0348866215558920" target="_blank">Eng. Ma. Amanda Isabela de Campos</a></li>
-  <li><a href="" target="_blank"></a>Comp. Lucas Elias de Andrade Cruvinel</li>
 </ul>
 
-<h2>Informações de uso da IA</h2>   
+<h2>Information</h2>   
 <p align="justify">
-Eu fui construída empregando as ferramentas de aprendizado de máquina da linguagem Python. Para você me utilizar basta ter acesso a plataforma <b>Google Colaboratory</b>. Hoje o meu índice de acurácia é de <code>88%</code> e com o tempo sempre estou melhorando minha eficiência. Para entrar em contato com meus criadores basta enviar um e-mail para <code>wanderlei_junior@ufcat.edu.br</code>. 
+I was built using the machine learning tools of the Python language. For you to use me, you just need access to the <b>Google Colaboratory</b>. Today my accuracy rate is <code>87%</code> and over time I'm always improving my efficiency. To get in touch with my creators, just send an email to <code>wanderlei_junior@ufcat.edu.br</code>. 
 </p>
-<h3>Como me utilizar</h3>
+
+<h3>Quick start</h3>
 <p align="justify">
-Para você me utilizar em sua pesquisa ou no seu canteiro de obras basta fazer o <i>download</i> dos modelos disponibilizados seguir.<br> 
+To use me in your job, just follow these steps:<br> 
+
+<ol>
+  <li>Download pre-trained <a href="https://github.com/wmpjrufg/Concreta/tree/gh-pages/_data/model" target="_blank">model</a>;</li>
+  <li>Open a new <a href="https://colab.research.google.com" target="_blank">Google Colab project</a>;</li>
+  <li>Fill in the worksheet with your dosage data</li>
+  <li><a href="http://lattes.cnpq.br/8968151880884493" target="_blank">Prof. Rogério Pinto Espíndola</a></li>
+  <li><a href="http://lattes.cnpq.br/8801080897723883" target="_blank">Prof. Daniel de Lima Araújo</a></li>
+  <li><a href="http://lattes.cnpq.br/1543798708473666" target="_blank">Prof. Gustavo de Assis Costa</a></li>
+  <li><a href="http://lattes.cnpq.br/0348866215558920" target="_blank">Eng. Ma. Amanda Isabela de Campos</a></li>
+</ol>
 
 <blockquote>
   <ol>
@@ -32,7 +42,7 @@ Para você me utilizar em sua pesquisa ou no seu canteiro de obras basta fazer o
       </a>
     </li>
     <li>
-      <a href="https://drive.google.com/drive/folders/1a-LD5YdRyOkVfchbnFniSQFCXoMkv1Kr?usp=sharing" target="_blank">IA Concreta
+      <a href="https://drive.google.com/drive/folders/1a-LD5YdRyOkVfchbnFniSQFCXoMkv1Kr?usp=sharing" target="_blank">Download <code>.sav</code> extension;
       </a>
     </li>
     <li>
@@ -49,5 +59,5 @@ De posse dos arquivos com extensão <code>.sav</code>, <code>.py</code> e do mod
 
 <h2><i>Disclaimer</i></h2>   
 <p align="justify">
-As informações de predição da <b>Concreta</b> não configuram uma recomendação de extinção de retirada de corpos de prova em obras ou concreteiras. Porém a IA auxilia os técnicas da área na obtenção de respostas em tempo real sobre a resistência mecânica do material. 
+<b>Concreta's</b> prediction information does not constitute a recommendation for the removal of specimens laboratory investigation or concrete dosage. However, AI helps technicians in the area to obtain real-time responses on the mechanical strength of the material.
 </p>
