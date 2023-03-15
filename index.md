@@ -14,18 +14,28 @@ Hello, I'm Concrete, the first Brazilian AI to be built to determine the concret
   <li><a href="http://lattes.cnpq.br/8801080897723883" target="_blank">Prof. Daniel de Lima Araújo</a></li>
   <li><a href="http://lattes.cnpq.br/1543798708473666" target="_blank">Prof. Gustavo de Assis Costa</a></li>
   <li><a href="http://lattes.cnpq.br/0348866215558920" target="_blank">Eng. Ma. Amanda Isabela de Campos</a></li>
+  <li><a href="" target="_blank"></a>Eng. Roberto Viegas Dutra</li>
 </ul>
 
 <h2>Information</h2>   
 <p align="justify">
-I was built using the machine learning tools of the Python language. For you to use me, you just need access to the <b>Google Colaboratory</b>. Today my accuracy rate is <code>87%</code> and over time I'm always improving my efficiency. To get in touch with my creators, just send an email to <code>wanderlei_junior@ufcat.edu.br</code>. 
+I was built using the machine learning tools of the Python language. Today my accuracy rate is <code>87%</code> and over time I'm always improving my efficiency. To get in touch with my creators, just send an email to <code>wanderlei_junior@ufcat.edu.br</code>. 
 </p>
 
 <h3>Quick start</h3>
 <p align="justify">
-To use me in your job, just follow these steps:<br> 
+To use me in your job or paper, just follow these steps:<br> 
 
 <ol>
+  <li>Access <a href="www.google.com.br" target="_blank">CONCRETA [colocar link roberto]</a> home page;</li>
+  <li>Fill the worksheet with your dosage data;</li>
+  <li>Click in Run button;</li>
+  <li>The results are to printed in your window.</li>
+</ol>  
+  
+<!--
+<ol>
+  <li>Download pre-trained <a href="https://github.com/wmpjrufg/Concreta/tree/gh-pages/_data/model" target="_blank">model</a> (<code>model.sav</code> and <code>scale.sav</code> files);</li>
   <li>Download pre-trained <a href="https://github.com/wmpjrufg/Concreta/tree/gh-pages/_data/model" target="_blank">model</a> (<code>model.sav</code> and <code>scale.sav</code> files);</li>
   <li>Open a new <a href="https://colab.research.google.com" target="_blank">Google Colab project</a> and upload <a href="https://drive.google.com/drive/folders/1reR2inVWJoU_cZ5VZvz3-A_q7wHMizJD?usp=sharing" target="_blank">example</a> notebook;</li>
   <li>Fill in the <a href="https://github.com/wmpjrufg/Concreta/tree/gh-pages/_data/input%20data" target="_blank"> worksheet</a> with your dosage data;</li>
@@ -36,6 +46,8 @@ To use me in your job, just follow these steps:<br>
   <li>The results are to printed in window.</li>
 </ol>
 
+
+
 <h4>Help to upload in Google Colab</h4>
 
 <ol>
@@ -44,9 +56,9 @@ To use me in your job, just follow these steps:<br>
   <li>Click on upload;</li>
   <li><p align="justify">Choose the file you want to upload <code>–></code> click Ok <code>–></code> then click OK when the warning that says “refresh will remove uploaded things”!!! Now your file is on google colab;</p></li>
 </ol>
-
+-->
 
 <h2><i>Disclaimer</i></h2>   
 <p align="justify">
-<b>Concreta's</b> prediction information does not constitute a recommendation for the removal of specimens laboratory investigation or concrete dosage. However, AI helps technicians in the area to obtain real-time responses on the mechanical strength of the material.
+<b>Concreta's</b> prediction information is not a recommendation to waive laboratory dosage tests. However, AI helps technicians in the area to get an estimate of the mechanical strength of the concrete mixture.
 </p>
