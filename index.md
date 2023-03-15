@@ -32,7 +32,7 @@ To use me in your job or paper, just follow these steps:<br>
   <li>Click in Run button;</li>
   <li>The results are to printed in your window.</li>
 </ol>  
-  
+
 <!--
 <ol>
   <li>Download pre-trained <a href="https://github.com/wmpjrufg/Concreta/tree/gh-pages/_data/model" target="_blank">model</a> (<code>model.sav</code> and <code>scale.sav</code> files);</li>
@@ -45,8 +45,6 @@ To use me in your job or paper, just follow these steps:<br>
   <li>Execute notebook jupyter and wait;</li>
   <li>The results are to printed in window.</li>
 </ol>
-
-
 
 <h4>Help to upload in Google Colab</h4>
 
