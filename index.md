@@ -22,7 +22,7 @@ Hello, I'm Concrete, the first Brazilian AI to be built to determine the concret
 I was built using the machine learning tools of the Python language. Today my accuracy rate is <code>87%</code> and over time I'm always improving my efficiency. To get in touch with my creators, just send an email to <code>wanderlei_junior@ufcat.edu.br</code>. 
 </p>
 
-<h3>Quick start</h3>
+<h2>Quick start</h2>
 <p align="justify">
 To use me in your job or paper, just follow these steps:<br> 
 
@@ -56,7 +56,7 @@ To use me in your job or paper, just follow these steps:<br>
 </ol>
 -->
 
-<h2><i>Disclaimer</i></h2>   
+<h2>Disclaimer</h2>   
 <p align="justify">
 <b>Concreta's</b> prediction information is not a recommendation to waive laboratory dosage tests. However, AI helps technicians in the area to get an estimate of the mechanical strength of the concrete mixture.
 </p>
