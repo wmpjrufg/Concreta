@@ -25,6 +25,7 @@ I was built using the machine learning tools of the Python language. Today my ac
 <h2>Quick start</h2>
 <p align="justify">
 To use me in your job or paper, just follow these steps:<br> 
+</p>
 
 <ol>
   <li>Access <a href="https://robertoviegas-concreta-app-5uef27.streamlit.app/" target="_blank">CONCRETA</a> home page;</li>
@@ -32,6 +33,9 @@ To use me in your job or paper, just follow these steps:<br>
   <li>Click in Run button;</li>
   <li>The results are to printed in your window.</li>
 </ol>  
+
+<h2>Dataset</h2>
+<p align="justify">Download <a href="https://github.com/wmpjrufg/Concreta/blob/gh-pages/dataset-full.xlsx" target="_blank">dataset</a>.</p>
 
 <!--
 <ol>
